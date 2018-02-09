@@ -1,0 +1,6 @@
+C:\Users\Shruti\source\repos\summation\summation\obj\Debug\summation.csproj.CoreCompileInputs.cache
+C:\Users\Shruti\source\repos\summation\summation\bin\Debug\summation.exe.config
+C:\Users\Shruti\source\repos\summation\summation\bin\Debug\summation.exe
+C:\Users\Shruti\source\repos\summation\summation\bin\Debug\summation.pdb
+C:\Users\Shruti\source\repos\summation\summation\obj\Debug\summation.exe
+C:\Users\Shruti\source\repos\summation\summation\obj\Debug\summation.pdb

@@ -1,0 +1,7 @@
+c:\users\shruti\source\repos\productAssignment\productAssignment\bin\Debug\productAssignment.exe.config
+c:\users\shruti\source\repos\productAssignment\productAssignment\bin\Debug\productAssignment.exe
+c:\users\shruti\source\repos\productAssignment\productAssignment\bin\Debug\productAssignment.pdb
+c:\users\shruti\source\repos\productAssignment\productAssignment\obj\Debug\productAssignment.csprojResolveAssemblyReference.cache
+c:\users\shruti\source\repos\productAssignment\productAssignment\obj\Debug\productAssignment.csproj.CoreCompileInputs.cache
+c:\users\shruti\source\repos\productAssignment\productAssignment\obj\Debug\productAssignment.exe
+c:\users\shruti\source\repos\productAssignment\productAssignment\obj\Debug\productAssignment.pdb
